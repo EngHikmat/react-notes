@@ -49,6 +49,6 @@ body {
 .ql-toolbar {
   @apply bg-orange-200/20;
   padding: 15px !important;
-  @apply flex justify-between overflow-x-auto items-center;
+  @apply flex justify-between overflow-auto lg:overflow-visible items-center;
   border: none !important;
 }
