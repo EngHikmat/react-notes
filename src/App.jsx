@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home/Home";
 import Note from "./pages/Note/Note";
-import Create from "./pages/Create/create";
+import Create from "./pages/Create/Create";
 function App() {
   return (
     <div className="">
